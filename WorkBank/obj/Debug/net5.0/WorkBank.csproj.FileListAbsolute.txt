@@ -1,0 +1,16 @@
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\bin\Debug\net5.0\WorkBank.exe
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\bin\Debug\net5.0\WorkBank.deps.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\bin\Debug\net5.0\WorkBank.runtimeconfig.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\bin\Debug\net5.0\WorkBank.runtimeconfig.dev.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\bin\Debug\net5.0\WorkBank.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\bin\Debug\net5.0\ref\WorkBank.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\bin\Debug\net5.0\WorkBank.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\obj\Debug\net5.0\WorkBank.csproj.AssemblyReference.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\obj\Debug\net5.0\WorkBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\obj\Debug\net5.0\WorkBank.AssemblyInfoInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\obj\Debug\net5.0\WorkBank.AssemblyInfo.cs
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\obj\Debug\net5.0\WorkBank.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\obj\Debug\net5.0\WorkBank.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\obj\Debug\net5.0\ref\WorkBank.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\obj\Debug\net5.0\WorkBank.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Net_Core\WorkBank\WorkBank\obj\Debug\net5.0\WorkBank.genruntimeconfig.cache
